@@ -4,6 +4,8 @@ Valve Server Picker is a simple tool that allows you to select a specific server
 It works by blocking certain IP ranges using firewalls that are known to be used by the Valve SDR (Steam Datagram Relay) network in the selected region. 
 This allows you to pick the server you want to play on, rather than having to connect to the one closest to you.
 
+<img src="Assets/screenshot.png">
+
 ## Features
 - In-app server list
 - Block IP ranges for specific regions
