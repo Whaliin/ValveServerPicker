@@ -23,7 +23,11 @@ This allows you to pick the server you want to play on, rather than having to co
 
 ## Known bugs:
 - Changing the app selector quickly while the map view is open can cause the Pinger objects to be disposed of incorrectly causing high CPU usage for a short moment.
+- When dragging the rectangle on the mapview the rectangle does not update properly if you move the cursor upwards or to the left.
 
 ## Credits
 - [Wikimedia](https://commons.wikimedia.org/w/index.php?title=File:BlankMap-World.svg&oldid=837392775) for the map image
 - [cs2-server-picker](https://github.com/FN-FAL113/cs2-server-picker) for the inspiration to work on a version using the Windows Firewall API
+
+## TODO:
+- Slim down VS2022 designer generated code
