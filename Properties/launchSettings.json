@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ValveServerPicker": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
