@@ -16,10 +16,9 @@ This allows you to pick the server you want to play on, rather than having to co
 
 ## Usage
 1. Download the latest release from the [releases page](https://github.com/Whaliin/ValveServerPicker/releases)
-2. Extract the zip file to a folder of your choice
-3. Run `ValveServerPicker.exe`
-4. Check the regions you want to block
-5. Done!
+2. Run `ValveServerPicker.exe`
+3. Check the regions you want to block
+4. Done!
 
 ## Known bugs:
 - Changing the app selector quickly while the map view is open can cause the Pinger objects to be disposed of incorrectly causing high CPU usage for a short moment.
